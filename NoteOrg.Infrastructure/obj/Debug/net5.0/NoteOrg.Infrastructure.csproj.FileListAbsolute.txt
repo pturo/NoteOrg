@@ -1,0 +1,15 @@
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\NoteOrg.Core.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.csprojAssemblyReference.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.AssemblyInfo.cs
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\NoteOrg.Infrastructure.deps.json
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\NoteOrg.Infrastructure.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\ref\NoteOrg.Infrastructure.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\NoteOrg.Infrastructure.pdb
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\bin\Debug\net5.0\NoteOrg.Core.pdb
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.csproj.CopyComplete
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\ref\NoteOrg.Infrastructure.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Infrastructure\obj\Debug\net5.0\NoteOrg.Infrastructure.pdb

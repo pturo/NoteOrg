@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Api\\NoteOrg.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Api\\NoteOrg.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Api\\NoteOrg.Api.csproj",
+        "projectName": "NoteOrg.Api",
+        "projectPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Api\\NoteOrg.Api.csproj",
+        "packagesPath": "C:\\Users\\pawlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pawlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\NoteOrg.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\NoteOrg.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\NoteOrg.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\NoteOrg.Core.csproj",
+        "projectName": "NoteOrg.Core",
+        "projectPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\NoteOrg.Core.csproj",
+        "packagesPath": "C:\\Users\\pawlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pawlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\NoteOrg.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\NoteOrg.Infrastructure.csproj",
+        "projectName": "NoteOrg.Infrastructure",
+        "projectPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\NoteOrg.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pawlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pawlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\NoteOrg.Core.csproj": {
+                "projectPath": "C:\\Users\\pawlo\\source\\repos\\NoteOrg\\NoteOrg.Core\\NoteOrg.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

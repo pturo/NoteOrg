@@ -1,0 +1,12 @@
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\bin\Debug\net5.0\NoteOrg.Core.deps.json
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\bin\Debug\net5.0\NoteOrg.Core.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\bin\Debug\net5.0\ref\NoteOrg.Core.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\bin\Debug\net5.0\NoteOrg.Core.pdb
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.csprojAssemblyReference.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.AssemblyInfoInputs.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.AssemblyInfo.cs
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.csproj.CoreCompileInputs.cache
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\ref\NoteOrg.Core.dll
+C:\Users\pawlo\source\repos\NoteOrg\NoteOrg.Core\obj\Debug\net5.0\NoteOrg.Core.pdb
